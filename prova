@@ -1,0 +1,10 @@
+base = 0
+altura = 0
+area = 0
+
+base= type(input("Digite a base"))
+altura= type(input("Digite a altura"))
+
+
+area (f'Area e igual a {base * altura},')
+print (area)
